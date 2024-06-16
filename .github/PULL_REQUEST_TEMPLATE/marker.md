@@ -23,6 +23,7 @@ When adding a new marker, you must do 2 things:
 
 The available pin types are:
 - Coffee
+- Restaurant
 - Event
 - Home
 - Picture

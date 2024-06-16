@@ -2,6 +2,7 @@ import { ETheme } from "./theme"
 
 export enum EPinType {
   Coffee = 'coffee',
+  Restaurant = 'restaurant',
   Event = 'event',
   Home = 'home',
   Picture = 'picture',

@@ -67,6 +67,7 @@ where `<branch>` is, of course, the name of your branch (creative, isn't it?).
 **Understanding Pin Types:**
 
 - `EPinType.Coffee` - You found an amazing café and you'd want to let everyone know about it.
+- `EPinType.Restaurant` - You found an restaurant.
 - `EPinType.Event` - Did you go to a concert? Visited a museum recently? Share it!
 - `EPinType.Home` - Places where you've been living - or your one and only home!
 - `EPinType.Picture` - Places you traveled to.

@@ -27,6 +27,11 @@ export const DEFAULT_FILTERS: IFilter[] = [
     checked: true
   },
   {
+    name: 'Restaurant',
+    type: 'restaurant',
+    checked: true
+  },
+  {
     name: 'Event',
     type: 'event',
     checked: true
